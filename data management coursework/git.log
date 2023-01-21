@@ -1,0 +1,71 @@
+commit 228a026ac8c363acfeb4e05d4af27bb8911d0cd9
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Sun Mar 6 16:22:44 2022 +0000
+
+    Made final changes to latex report file and finished the report. This version is the same as my complete first handin on ECSHandin system!
+
+commit f9b318aee739001305cda09f43913e3a9d9ab726
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Sun Mar 6 16:09:14 2022 +0000
+
+    Made changes to create_csv.sh script bny adding comments to each line of code and tidying up lines that could be combined/amended
+
+commit 35b2b08df20a96e81cf7e57ad9aff8115e1827eb
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Sat Mar 5 22:56:59 2022 +0000
+
+    Finished the first draft of the Latex report!
+
+commit 6de888c3379880628b2de5696e8da98693fd3aa3
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Sat Mar 5 21:37:48 2022 +0000
+
+    First draft of the Latex report has now been written to the report.tex file
+
+commit d90e7af59f21250059f2425353682d3ae8bbbe4b
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Mon Feb 28 17:23:52 2022 +0000
+
+    removed unnecessary variable assignment of filename and changed it to just pipe the user input directly from the command prompt
+
+commit 8f8300540bfdf8fe6b9f4982bb18eeb1d250443a
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Mon Feb 28 17:09:18 2022 +0000
+
+    Changed create_csv to be more condensed and all work in one line of bash, by removing while loop and editing the piping to all happen sequentially instead of in chunks. Piped the output to a user file variable input as well in order to pass the ECS handin tests
+
+commit 4aa6a58134ba037a03ee1d7dea09b711d118627f
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Mon Feb 28 13:41:56 2022 +0000
+
+    Used create_csv bash script on create_map_plot nash script to draw all 3 hurricane trajectories on 3 differnet png files
+
+commit e299b852c63e661cae884f4ecb852cae10312864
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Mon Feb 28 13:29:38 2022 +0000
+
+    Retrieved additional 2 kml files from folder and finished the create_csv script to store the extracted storm data as described by the coursework outline in csv file called storm_info.csv
+
+commit 319d5bc7b825edc0b1c8c6a98f24fac577847dd1
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Mon Feb 28 12:35:17 2022 +0000
+
+    Added new code to pipe output to temporary csv file and filter all unnecessary and duplicate data
+
+commit 28f2ee89e52b8cb72f97cce98cecf89a6a597663
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Sun Feb 27 16:28:17 2022 +0000
+
+    Added first lines of code in create_csv file which greps the important data and removes all the kml tags and unnecessary delimiters such as ';' and ']'
+
+commit 0d522d8190fede2db845e96df93cc03d823ae4ce
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Sun Feb 27 14:35:08 2022 +0000
+
+    added all files to the folder and updated MY README file to inform what this git folder is currently trying to achieve
+
+commit 60f288d2619cc0a1d7fb3de6f651e0cf84ce84cd
+Author: lah1u21 <lah1u21@soton.ac.uk>
+Date:   Sun Feb 27 14:30:24 2022 +0000
+
+    add README
